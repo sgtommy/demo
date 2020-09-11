@@ -1,0 +1,38 @@
+body{
+    background-color: darkslategrey;
+  }
+
+
+.gallery {
+   margin: 5px;
+   border: 5px solid #ccc;
+   float: left;;
+   width: 180px;
+ }
+ 
+ .gallery:hover {
+   border: 1px solid #777;
+ }
+ 
+ .gallery img {
+   width: 100%;
+   height: auto;
+ }
+ 
+ 
+ a {
+   text-decoration: none;
+   display: inline-block;
+   padding: 8px 16px;
+ }
+ 
+ 
+   
+  
+   
+
+ .btn{
+  
+  margin: 40% 20%;
+  padding-top: 20rem;
+}

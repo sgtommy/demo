@@ -1,0 +1,128 @@
+body{
+    font-family: "montserrat";
+}
+.head{
+    
+    color: honeydew;
+    font-family: "Impact, Charcoal, sans-serif";
+    margin: 0px;
+   
+}
+#title{
+    background-color: darkslategrey;
+    color:#fff
+}
+
+
+
+
+p{
+    color: #8f8f8f;
+}
+h1{
+    font-family: 'Montserrat Subrayada', sans-serif;
+   
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+h2{
+    font-family: 'Montserrat Subrayada', sans-serif;
+   
+    font-size: 2rem;
+    line-height: 1.5;
+}
+h3{
+    font-family: "Montserrat Subrayada";
+    font-size: 1.5rem;  
+  }
+h4{
+    font-family: "Montserrat Subrayada";
+    font-size: 1.5rem;
+}
+.container-fluid{
+    padding: 3% 10%;
+}
+img{
+    height: auto;
+    width: 400px;
+}
+.navbar {
+    padding: 0 0 4.5rem;
+}
+.navbar-brand{
+
+    font-family: "ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+nav-item{
+ padding: 0 18px;
+}
+nav-link{
+    font-size: 1.2rem;
+ font-family: "montserrat-light";
+}
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+.title-image{
+    width: 60%;
+    transform: rotate(25deg);
+}
+    #features{
+      padding: 7% 15%;
+    }
+.feature-button{
+ text-align: center;
+ padding: 5%;
+}
+.icon{
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: darkslategrey;
+}
+#about{
+    background-color: darkslategrey;
+    padding: 7% 15%;
+}
+.about-button{
+    text-align: center;
+    padding: 5%;
+}
+.about-head{
+    color: #fff;
+}
+#info{
+    padding: 7% 15%;
+    
+    
+}
+.info-button{
+    text-align: center;
+    padding: 5%;
+    
+   
+}
+.personal{
+    margin: 10% 0 ;
+    
+}
+#friend{
+    background-color: darkslategrey;
+    padding: 7% 15%;
+}  
+.friend-button{
+    text-align: center;
+    padding: 5%;
+}
+#end{
+    padding: 7% 15%;
+}
+.end-button{
+    text-align: center;
+    padding: 5%
+}
+.end-p{
+    font-size: 12px;
+}

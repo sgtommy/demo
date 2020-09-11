@@ -1,0 +1,37 @@
+body{
+    background-color: darkslategrey;
+  }
+
+
+.gallery {
+    margin-left: 40%  ;
+   border: 5px solid #ccc;
+   float: center;
+   width: 350px;
+  
+ }
+ 
+ .gallery:hover {
+   border: 1px solid #777;
+ }
+ 
+ .gallery img {
+   width: 100%;
+   height: auto;
+ }
+ 
+ 
+ a {
+   text-decoration: none;
+   display: inline-block;
+   padding: 8px 16px;
+ }
+ 
+ 
+   
+  
+   
+
+ .btn{
+   margin-left: 80% ;
+}
